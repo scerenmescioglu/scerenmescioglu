@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @scerenmescioglu
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning php, not going well.
 - 💞️ I’m looking to collaborate on whatever i can in my knowledge
-- 📫 How to reach me from here by mentioning me
+- 📫 you can reach me from here by mentioning me!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i prefer c coding over python!
 

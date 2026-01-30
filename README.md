@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @scerenmescioglu
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning php, not going well.
-- 💞️ I’m looking to collaborate on whatever i can in my knowledge
+- 👋 Hi, I’m @scerenmescioglu!
+- 👀 I’m interested in data analytics. 
+- 🌱 I’m currently learning SQL.
+- 💞️ I’m looking to collaborate on whatever I can within my knowledge.
 - 📫 you can reach me from here by mentioning me!
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i prefer c coding over python!
 
 <!---
 scerenmescioglu/scerenmescioglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

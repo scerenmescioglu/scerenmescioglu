@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scerenmescioglu!
-- 👀 I’m interested in data analytics. 
-- 🌱 I’m currently learning Python and data analysis.
+- 👀 I’m interested in data analytics and fullstack. 
+- 🌱 I’m currently learning TypeScript and fullstack.
 - 💞️ I’m looking to collaborate on whatever I can within my knowledge.
 - 📫 you can reach me from here by mentioning me!
 
